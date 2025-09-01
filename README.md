@@ -36,7 +36,6 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/amansingh-coder)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmanSingh5416)  
 
 ---
 ⭐️ From [AmanSingh5416](https://github.com/AmanSingh5416)
