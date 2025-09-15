@@ -12,9 +12,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat-square&logo=visual-studio-code&logoColor=white&color=2F4F4F">
 </p>
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanSingh5416&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh5416&layout=compact&theme=dark)
-
 ---
 
 ## About Me
