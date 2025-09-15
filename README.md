@@ -7,7 +7,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&logoColor=white&color=2F4F4F">
   <img alt="C++" src="https://img.shields.io/badge/C++-C++?style=flat-square&logo=cplusplus&logoColor=white&color=2F4F4F">
   <img alt="React" src="https://img.shields.io/badge/React-React?style=flat-square&logo=react&logoColor=white&color=2F4F4F">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Node.js?style=flat-square&logo=nodedotjs&logoColor=white&color=2F4F4F">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&logoColor=white&color=2F4F4F">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat-square&logo=visual-studio-code&logoColor=white&color=2F4F4F">
 </p>
