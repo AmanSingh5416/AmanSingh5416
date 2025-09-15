@@ -1,20 +1,19 @@
 # Aman Singh — B.Tech in Mathematics & Computing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-a862b7347) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmanSingh5416)
+<p align="left" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;">
+  <a href="https://www.linkedin.com/in/aman-singh-a862b7347"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=white&color=2F4F4F"></a>
+  <a href="https://github.com/AmanSingh5416"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GitHub?style=flat-square&logo=github&logoColor=white&color=2F4F4F"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-Java?style=flat-square&logo=java&logoColor=white&color=2F4F4F">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&logoColor=white&color=2F4F4F">
+  <img alt="C++" src="https://img.shields.io/badge/C++-C++?style=flat-square&logo=cplusplus&logoColor=white&color=2F4F4F">
+  <img alt="React" src="https://img.shields.io/badge/React-React?style=flat-square&logo=react&logoColor=white&color=2F4F4F">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-Node.js?style=flat-square&logo=nodedotjs&logoColor=white&color=2F4F4F">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&logoColor=white&color=2F4F4F">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-VS%20Code?style=flat-square&logo=visual-studio-code&logoColor=white&color=2F4F4F">
+</p>
 
-## Badges / Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-## GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanSingh5416&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh5416&layout=compact&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanSingh5416&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh5416&layout=compact&theme=dark)
 
 ---
 
@@ -53,11 +52,11 @@ I am Aman Singh, a B.Tech student in Mathematics & Computing at PEC Chandigarh. 
      - Like/save tracks and playlist management
      - Responsive UI with polished animations and keyboard shortcuts
    - **Tech Stack**
-     - Front-end: React, React Router, React Context / Redux (state management)
+     - Front-end: React, React Router, state management (Context/Redux)
      - Back-end: Node.js + Express (REST API)
      - Data store: MongoDB (user data, playlists), optional PostgreSQL for relational features
      - Media: HTML5 Audio / Web Audio API for playback; AWS S3 or static hosting for demo media
-     - DevOps: Docker for local development; scripts for building and running services
+     - DevOps: Docker for local development
    - **Design & Engineering Considerations**
      - Cross-page persistent player and low-latency controls for a production-like feel
      - Efficient search and paginated APIs to handle large catalogs
@@ -70,38 +69,24 @@ I am Aman Singh, a B.Tech student in Mathematics & Computing at PEC Chandigarh. 
 ---
 
 ## Experience
-Below is a summary of hands-on experience and responsibilities I have undertaken as a student and project developer.
+- Academic projects implementing algorithms, networks, and database-backed applications.  
+- Multiple hackathons with experience shipping MVPs and pitching to judges.  
+- Systems & software prototyping, including media playback and streaming engineering for the Spotify clone.  
+- Open-source contributions (bug fixes, docs, small features).  
+- Peer mentoring: DSA, debugging, and project guidance.
 
-- **Academic Projects & Coursework**
-  - Implemented algorithms and system-level assignments covering complexity analysis, data structures, networking fundamentals, and database-backed applications.  
-  - Built course projects demonstrating end-to-end development: design, implementation, testing, and documentation.
-
-- **Hackathons & Rapid Prototyping**
-  - Participated in multiple hackathons; experience shipping MVPs under tight deadlines, building product-focused demos, and pitching to judges.  
-  - Skilled at prioritizing features that make products demonstrably useful during short development cycles.
-
-- **Systems & Software Prototyping**
-  - Hands-on with building prototypes, integrating external APIs, setting up reliable processing pipelines, and embedding those into web services.  
-  - Worked on media playback and streaming patterns while building the Spotify clone: persistent players, stream buffering, and efficient media delivery.
-    
 ---
 
 ## What I Bring
 - Strong mathematical and algorithmic foundation.  
 - Practical engineering: shipping prototypes that are testable and maintainable.  
-- A product-first mindset: prioritize features that deliver clear user value.  
-- High standards for documentation and code quality.
+- A product-first mindset and high standards for documentation and code quality.
 
 ---
 
 ## How to Explore My Work
 - GitHub: https://github.com/AmanSingh5416  
 - LinkedIn: https://www.linkedin.com/in/aman-singh-a862b7347
-
-If you’d like, I can:
-- Add the Spotify clone repository link and a short README for that repo.  
-- Generate demo GIFs/screenshots for the Spotify clone.  
-- Produce a compact resume-style section tailored for recruiters.
 
 ---
 
